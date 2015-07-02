@@ -1,0 +1,22 @@
+/* Style sheet customization goes here */
+
+a.reference {
+  border-bottom-color: #CD823F;
+  border-bottom-style: solid;
+}
+
+.navbar-default {
+  background-color: #15125F
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #EDA668;
+}
+
+body {
+  background-color: #5956A5
+}
+
+.well {
+  background-color: #838707;
+}
