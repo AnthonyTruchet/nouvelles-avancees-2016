@@ -20,3 +20,24 @@ body {
 .well {
   background-color: #838707;
 }
+
+table.organizers {
+  margin-top: 15ex;
+  border: none;
+}
+
+table.organizers tr td:first-child {
+    text-align: right;
+    padding-right: 2em;
+}
+
+table.organizers img {
+  float: right;
+}
+
+table.organizers tr td:last-child {
+  font-style: oblique;
+  /* color: #EDA668; */
+  font-size: 15px;
+  vertical-align: middle;
+}
